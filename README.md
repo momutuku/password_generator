@@ -15,9 +15,6 @@ This Password Generator Tool is a simple yet powerful tool to create secure and 
 
 ## Getting Started
 
-### Prerequisites
-
-- Make sure you have a modern web browser installed.
 
 ### Installation
 
@@ -27,7 +24,6 @@ This Password Generator Tool is a simple yet powerful tool to create secure and 
    git clone https://github.com/Onsareorucho/passgen/
    ```
 
-2. Open the `index.html` file in your web browser.
 
 ## Usage
 
