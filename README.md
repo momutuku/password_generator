@@ -34,7 +34,7 @@ This Password Generator Tool is a simple yet powerful tool to create secure and 
 
 ![Usage GIF](gifs/password-generator-usage.gif)
 
-## Screenshots
+## Screenshots...
 
 ### Password Generator Page
 ![Password Generator](screenshots/Login.png)
