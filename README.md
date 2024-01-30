@@ -4,7 +4,7 @@
 
 This Password Generator Tool is a simple yet powerful tool to create secure and random passwords for your online accounts. It helps you enhance your online security by generating strong and unique passwords that are difficult for hackers to crack.
 
-![Password Generator Tool](images/password-generator.png)
+![Password Generator Tool](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5lamU1c245dm1oM2x5Z3RoaW5nOHp3OXNseWNjZWpzdXI4cXZscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/loXfQtPqLxGmbLs9h2/giphy.gif)
 
 ## Features
 
@@ -41,14 +41,15 @@ This Password Generator Tool is a simple yet powerful tool to create secure and 
 ## Screenshots
 
 ### Password Generator Page
-![Password Generator](images/password-generator-page.png)
+![Password Generator](screenshots/Login.png)
+![Password Generator](screenshots/Registration.png)
+![Password Generator](screenshots/AddPassword.png)
 
-### Customization Options
-![Customization](images/customization-options.png)
+
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the Password Generator Tool.
+Contributions are !welcome Feel free to open issues or submit pull requests to improve the Password Generator Tool.
 
 ## License
 
@@ -56,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to [OpenAI](https://www.openai.com/) for providing the powerful GPT-3.5 language model.
+- Special thanks to [OpenAI](https://www.openai.com/) for providing the powerful GPT-3.5 language model cause no way i was wording this readme this good
 
 ## Support
 
